@@ -2,7 +2,7 @@
 
 
 Books about Nodejs, Angular2, Agile, Clean Code, Docker, Golang, Microservices, REST, TDD, BDD, and Startups.
-
+* 다른 사람이 모아 놓은 것을 포크 해 옴.
 
 ### Table of contents
 
